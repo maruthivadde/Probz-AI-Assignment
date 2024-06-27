@@ -1,0 +1,23 @@
+.button-container{
+    width: 50%;
+    display: flex;
+    max-width: 600px;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 50px;
+}
+
+.buttons{
+    height: 35px;
+    width: 100px;
+    font-size: 13px;
+    font-weight: 500;
+    font-family: "Roboto";
+    text-align: center;
+    background-color: rgb(81, 81, 137);
+    color: white;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 7px;
+}
