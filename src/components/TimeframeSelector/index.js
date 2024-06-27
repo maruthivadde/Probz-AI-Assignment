@@ -1,23 +1,3 @@
-// import React from 'react';
-// import './index.css'
-
-// const TimeframeSelector = (props) => {
-//   const {data,onChangeButton} = props
-//   const {date,id} = data
-//   const onClickButton =() =>{
-//     onChangeButton(id)
-//   }
-//   return(
-//     <div>
-//     <button className='time-frame-button' onClick={onClickButton}>{date}</button>
-//   </div>
-//   )
-// }
-
-
-// export default TimeframeSelector;
-
-
 
 import React from 'react';
 
